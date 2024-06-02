@@ -9,6 +9,6 @@ python eval.py --device cuda:1 --dataset mini --num_ways 5 --num_shots 5 --trans
 
 Our project references the codes in the following repos.
 - [HGNN](https://github.com/smartprobe/HGNN)
-- [few-shot-gnn](https://github.com/smartprobe/HGNN](https://github.com/vgsatorras/few-shot-gnn))
+- [few-shot-gnn](https://github.com/smartprobe/HGNN](https://github.com/vgsatorras/few-shot-gnn)
 ```
 
