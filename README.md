@@ -1,5 +1,5 @@
 # FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding
-Implementation of FSAKE on Python3.8, Pytorch 1.10.0, Pygeometric 2.0.1, opencv-python 3.4.10.35, tensoboardx 2.6.2.2.
+Implementation of FSAKE on Python3.8, Pytorch 1.10.0, pytorch_geometric 2.0.1, opencv-python 3.4.10.35, tensoboardx 2.6.2.2.
 
 #### FSAKE achieves competitive performance on several few-shot learning benchmarks with significant advantages. The result is obtained without using any extra data for training or testing.
 
